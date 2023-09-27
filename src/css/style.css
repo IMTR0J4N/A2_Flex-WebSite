@@ -68,6 +68,10 @@ header > nav > ul > li > a:hover {
     padding: 30px 15px;
 }
 
+#about-me {
+    background-color: lightgray;
+}
+
 #about-me h2, #about-me h3, #main--article h1 {
     font-weight: bold;
 }
